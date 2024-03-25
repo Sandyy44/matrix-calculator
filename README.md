@@ -1,5 +1,5 @@
 # Matrix Calculator
-This repository contains a Matrix Calculator program implemented in Python, capable of performing various operations on matrices including summation, subtraction, multiplication (both 2x2 and 3x3), division, transpose, determinant calculation, and inverse calculation (for both 2x2 and 3x3 matrices), as well as scalar division.<br />
+This repository contains a Matrix Calculator program implemented in C, capable of performing various operations on matrices including summation, subtraction, multiplication (both 2x2 and 3x3), division, transpose, determinant calculation, and inverse calculation (for both 2x2 and 3x3 matrices), as well as scalar division.<br />
 
 ![Screenshot 2024-03-25 023713](https://github.com/Sandyy44/matrix-calculator/assets/100297367/2245a45a-ab0f-404e-9c32-70a9cd9b7704)
 
